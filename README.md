@@ -20,4 +20,4 @@ Also you can host the php script locally, so that you can check the TOR Network 
 
 Follow Me on GitHub!!
 
-Follow Me on Instagram @its__me_cj
+Follow Me on Instagram @thekhalidsha
